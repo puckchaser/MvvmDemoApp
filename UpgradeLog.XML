@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MvvmDemoApp">
+</Property><Property Name="Solution File" Value="C:\Dokumente und Einstellungen\Andy\Eigene Dateien\Visual Studio 2010\Projects\MvvmDemoApp\MvvmDemoApp.sln">
+</Property><Property Name="Date" Value="Donnerstag, 27. Januar 2011">
+</Property><Property Name="Time" Value="22:13">
+</Property></Properties><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\DemoApp.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DemoApp" Source="DemoApp\DemoApp.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="UnitTests" Source="UnitTests\UnitTests.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="UnitTests" Source="UnitTests\UnitTests.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MvvmDemoApp.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MvvmDemoApp.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DemoApp" Source="DemoApp\DemoApp.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="3" Project="" Source="LocalTestRun.testrunconfig" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="LocalTestRun.testrunconfig" Description="The file was converted to the current format.">
+</Event><Event ErrorLevel="3" Project="" Source="MvvmDemoApp.vsmdi" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MvvmDemoApp.vsmdi" Description="The file was converted to the current format.">
+</Event><Event ErrorLevel="0" Project="UnitTests" Source="UnitTests\UnitTests.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
